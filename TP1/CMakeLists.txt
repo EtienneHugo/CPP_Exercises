@@ -8,3 +8,4 @@
 #     f2.cpp
 #     f3.cpp
 # )
+add_executable(main main.cpp)
